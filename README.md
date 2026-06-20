@@ -19,5 +19,6 @@ A simple Python-based Aadhaar Management System that performs CRUD operations us
 - User Input
 - CRUD Operations
 
+
 ## Author
 Vennapusa Vijayamani
